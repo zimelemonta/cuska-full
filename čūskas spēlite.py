@@ -19,7 +19,7 @@ high_score = 0
 
 #
 wn = turtle.Screen()
-wn.title("Snake Game")
+wn.title("cuska")
 wn.bgcolor("pink")
 wn.setup(width=600, height=600)
 wn.tracer(0) # Turns off the screen updates
